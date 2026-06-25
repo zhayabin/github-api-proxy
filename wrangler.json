@@ -1,0 +1,8 @@
+{
+  "name": "github-api-proxy",
+  "main": "src/index.js",
+  "compatibility_date": "2024-04-05",
+  "observability": {
+    "enabled": true
+  }
+}
